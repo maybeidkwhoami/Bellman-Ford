@@ -1,8 +1,8 @@
-#Bellman-Ford Algorithm with Graph Visualization
+# Bellman-Ford Algorithm with Graph Visualization #
 
   This Python script implements the Bellman-Ford algorithm for finding the shortest paths in a weighted directed graph. The script utilizes the tkinter library for creating a simple graphical user interface to input graph details and visualize the     graph using networkx and matplotlib.
 
-#Features:
+## Features: ##
 
   Bellman-Ford Algorithm: Computes the shortest paths from a source vertex to all other vertices, detecting negative weight cycles.
 
@@ -10,7 +10,7 @@
 
   User-Friendly Interface: Allows users to input graph details easily through a graphical interface.
 
-#Usage:
+## Usage: ##
 
   1.Run the script.
 
@@ -20,7 +20,7 @@
 
   4.Click "Visualiser le graphe" to visualize the input graph.
 
-#Requirements:
+## Requirements: ##
 
   Python 3.x
   tkinter, networkx, and matplotlib libraries
